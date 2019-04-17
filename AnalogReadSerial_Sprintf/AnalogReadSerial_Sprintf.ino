@@ -1,3 +1,5 @@
+//AnalogReadSerial modified by Tiri Kananuruk//
+
 int sensorPin = A0; // select the input pin for the potentiometer
 int sensorValue = 0 ; // variable to store the value coming from the sensor
 int sensorPins[] = {A2, A3, A4, A7, A9, A12}; // don't forget to change this
